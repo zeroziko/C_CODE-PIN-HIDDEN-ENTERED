@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1645103990 source:c:\users\merya\desktop\code_pin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
